@@ -1,0 +1,42 @@
+{
+    "name": "SilentSunday",
+    "url": "https://mastodon.social/tags/silentsunday",
+    "history": [
+        {
+            "day": "1713139200",
+            "accounts": "41",
+            "uses": "47"
+        },
+        {
+            "day": "1713052800",
+            "accounts": "766",
+            "uses": "899"
+        },
+        {
+            "day": "1712966400",
+            "accounts": "10",
+            "uses": "13"
+        },
+        {
+            "day": "1712880000",
+            "accounts": "4",
+            "uses": "4"
+        },
+        {
+            "day": "1712793600",
+            "accounts": "4",
+            "uses": "4"
+        },
+        {
+            "day": "1712707200",
+            "accounts": "1",
+            "uses": "1"
+        },
+        {
+            "day": "1712620800",
+            "accounts": "3",
+            "uses": "5"
+        }
+    ],
+    "following": false
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "112291787942621740",
+        "type": "video",
+        "url": "https://files.mastodon.social/media_attachments/files/112/291/787/942/621/740/original/4a59b9d214c3a9c4.mp4",
+        "preview_url": "https://files.mastodon.social/media_attachments/files/112/291/787/942/621/740/small/4a59b9d214c3a9c4.png",
+        "remote_url": null,
+        "preview_remote_url": null,
+        "text_url": null,
+        "meta": {
+            "original": {
+                "width": 720,
+                "height": 720,
+                "frame_rate": "30000/1001",
+                "duration": 21.355,
+                "bitrate": 1825589
+            },
+            "small": {
+                "width": 640,
+                "height": 640,
+                "size": "640x640",
+                "aspect": 1.0
+            },
+            "focus": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "description": "A helicopter's rotor blades appear stationary as it flies overhead.",
+        "blurhash": "UVG]gys+t7og.Axtofof00xtt7t7ogRkt7t7"
+    }
+]

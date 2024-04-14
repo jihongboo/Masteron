@@ -1,0 +1,346 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld uses from %lld users" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld uses from %2$lld users"
+          }
+        }
+      }
+    },
+    "Account" : {
+
+    },
+    "Add" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
+          }
+        }
+      }
+    },
+    "Admin" : {
+
+    },
+    "Bookmark" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "书签"
+          }
+        }
+      }
+    },
+    "Bookmarks" : {
+
+    },
+    "Boost" : {
+
+    },
+    "by %lld users" : {
+
+    },
+    "Categories" : {
+
+    },
+    "Comment" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "评论"
+          }
+        }
+      }
+    },
+    "Comments" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "评论"
+          }
+        }
+      }
+    },
+    "Contact" : {
+
+    },
+    "Day" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "天"
+          }
+        }
+      }
+    },
+    "Dead" : {
+
+    },
+    "Description" : {
+
+    },
+    "Discovery" : {
+
+    },
+    "Done" : {
+
+    },
+    "Email" : {
+
+    },
+    "Error" : {
+
+    },
+    "Favorites" : {
+
+    },
+    "Federated" : {
+
+    },
+    "Follow" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关注"
+          }
+        }
+      }
+    },
+    "Followed Hashtags" : {
+
+    },
+    "Full Description" : {
+
+    },
+    "General" : {
+
+    },
+    "Home" : {
+
+    },
+    "Https Rank" : {
+
+    },
+    "Https Score" : {
+
+    },
+    "ID" : {
+
+    },
+    "Information" : {
+
+    },
+    "ipv6" : {
+
+    },
+    "languages" : {
+
+    },
+    "List" : {
+
+    },
+    "Local" : {
+
+    },
+    "Log Out" : {
+
+    },
+    "Login" : {
+
+    },
+    "Medias" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "媒体"
+          }
+        }
+      }
+    },
+    "Messages" : {
+
+    },
+    "More" : {
+
+    },
+    "Name" : {
+
+    },
+    "OBS Rank" : {
+
+    },
+    "OBS Score" : {
+
+    },
+    "Open Registrations" : {
+
+    },
+    "Other Languages Accepted" : {
+
+    },
+    "Please click the Retry button." : {
+
+    },
+    "Please Login" : {
+
+    },
+    "Post" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "嘟文"
+          }
+        }
+      }
+    },
+    "Posts" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "嘟文"
+          }
+        }
+      }
+    },
+    "Profile" : {
+
+    },
+    "prohibitedContent" : {
+
+    },
+    "Replies" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回复"
+          }
+        }
+      }
+    },
+    "Retry" : {
+
+    },
+    "See More" : {
+
+    },
+    "Segments" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择器"
+          }
+        }
+      }
+    },
+    "Server" : {
+
+    },
+    "Servers" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Share" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分享"
+          }
+        }
+      }
+    },
+    "Star" : {
+
+    },
+    "Statuses" : {
+
+    },
+    "Suggested Users" : {
+
+    },
+    "Tags" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标签"
+          }
+        }
+      }
+    },
+    "Technique" : {
+
+    },
+    "Text" : {
+
+    },
+    "Timeline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "时间线"
+          }
+        }
+      }
+    },
+    "Topic" : {
+
+    },
+    "Total Uses" : {
+
+    },
+    "Trending" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "趋势"
+          }
+        }
+      }
+    },
+    "Updated" : {
+
+    },
+    "Users" : {
+
+    },
+    "Uses" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用量"
+          }
+        }
+      }
+    },
+    "Version" : {
+
+    },
+    "You must be logged in to access this page" : {
+
+    }
+  },
+  "version" : "1.0"
+}

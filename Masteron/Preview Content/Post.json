@@ -1,0 +1,82 @@
+{
+    "id": "112292731538963755",
+    "created_at": "2024-04-18T14:38:23.804Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/GottaLaff/statuses/112292731538963755",
+    "url": "https://mastodon.social/@GottaLaff/112292731538963755",
+    "replies_count": 9,
+    "reblogs_count": 69,
+    "favourites_count": 96,
+    "edited_at": null,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>I’m loving Moskowitz! He really did this.</p><p>Jared Moskowitz:</p><p>Just submitted an amendment to Bill drafting appointing MTG as Putin’s Special Envoy to the United States Congress.</p><p>Juliegrace Brufke:</p><p>Rep. Marjorie Taylor Greene introduced an amendment requiring members to “conscript in the Ukrainian military” if they vote for the Ukraine supplemental bill.</p>",
+    "filtered": [],
+    "reblog": null,
+    "application": {
+        "name": "Web",
+        "website": null
+    },
+    "account": {
+        "id": "109253075745809751",
+        "username": "GottaLaff",
+        "acct": "GottaLaff",
+        "display_name": "Laffy",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-29T00:00:00.000Z",
+        "note": "<p>Bite me, Musk.</p><p>Progressive political commentator (print, radio, podcasts) for years. I post a lot: breaking news + legit info you can use, prone to snark. My mini Australian Labradoodle, Hamilton, has trained me well.  </p><p>Now where&#39;s my trough of wine? 🍷🇺🇸🇨🇦</p><p><a href=\"https://mastodon.social/tags/Progressive\" class=\"mention hashtag\" rel=\"tag\">#<span>Progressive</span></a> <a href=\"https://mastodon.social/tags/USPolitics\" class=\"mention hashtag\" rel=\"tag\">#<span>USPolitics</span></a> <a href=\"https://mastodon.social/tags/VotingRights\" class=\"mention hashtag\" rel=\"tag\">#<span>VotingRights</span></a> <a href=\"https://mastodon.social/tags/legal\" class=\"mention hashtag\" rel=\"tag\">#<span>legal</span></a> <a href=\"https://mastodon.social/tags/WomensRights\" class=\"mention hashtag\" rel=\"tag\">#<span>WomensRights</span></a> <a href=\"https://mastodon.social/tags/CivilRights\" class=\"mention hashtag\" rel=\"tag\">#<span>CivilRights</span></a> <a href=\"https://mastodon.social/tags/BLM\" class=\"mention hashtag\" rel=\"tag\">#<span>BLM</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/Canada\" class=\"mention hashtag\" rel=\"tag\">#<span>Canada</span></a> <a href=\"https://mastodon.social/tags/journalists\" class=\"mention hashtag\" rel=\"tag\">#<span>journalists</span></a> <a href=\"https://mastodon.social/tags/politics\" class=\"mention hashtag\" rel=\"tag\">#<span>politics</span></a> <a href=\"https://mastodon.social/tags/news\" class=\"mention hashtag\" rel=\"tag\">#<span>news</span></a> <a href=\"https://mastodon.social/tags/LGBTQ\" class=\"mention hashtag\" rel=\"tag\">#<span>LGBTQ</span></a> <a href=\"https://mastodon.social/tags/DogsOfMastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>DogsOfMastodon</span></a></p>",
+        "url": "https://mastodon.social/@GottaLaff",
+        "uri": "https://mastodon.social/users/GottaLaff",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/253/075/745/809/751/original/6e1210f7ebf4ce1d.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/253/075/745/809/751/original/6e1210f7ebf4ce1d.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/253/075/745/809/751/original/b86b5264cccda03e.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/253/075/745/809/751/original/b86b5264cccda03e.jpeg",
+        "followers_count": 22755,
+        "following_count": 5888,
+        "statuses_count": 83573,
+        "last_status_at": "2024-04-18",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "WEBSITE",
+                "value": "<a href=\"https://nicolesandler.com/laffys-blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nicolesandler.com/laffys-blog/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/realgottalaff/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/realgottalaff/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://www.threads.net/@realgottalaff\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@realgottalaff</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "BlueSky",
+                "value": "<a href=\"https://bsky.app/profile/gottalaff.bsky.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/gottalaff.bsk</span><span class=\"invisible\">y.social</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+}

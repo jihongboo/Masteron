@@ -1,0 +1,15 @@
+{
+  "originHash" : "529c5ad1dba3a0e7340db4bd440748c6602732d001f74eb0e55383c51ad7aa05",
+  "pins" : [
+    {
+      "identity" : "bettercodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marksands/BetterCodable.git",
+      "state" : {
+        "revision" : "61153170668db7a46a20a87e35e70f80b24d4eb5",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -1,0 +1,47 @@
+{
+    "id": "111953070350937032",
+    "username": "ukrinform",
+    "acct": "ukrinform@masto.ink",
+    "display_name": "Укрінформ | Новини України",
+    "locked": false,
+    "bot": true,
+    "discoverable": true,
+    "indexable": true,
+    "group": false,
+    "created_at": "2024-02-18T00:00:00.000Z",
+    "note": "<p><a href=\"https://ukrinform.ua\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ukrinform.ua</span><span class=\"invisible\"></span></a> — на передовій новин</p><p>Telegram: <a href=\"https://t.me/ukrinform_news\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.me/ukrinform_news</span><span class=\"invisible\"></span></a></p><p>⚠️ Ретрансляція з Telegram-каналу <a href=\"https://t.me/ukrinform_news\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.me/ukrinform_news</span><span class=\"invisible\"></span></a></p>",
+    "url": "https://masto.ink/@ukrinform",
+    "uri": "https://masto.ink/users/ukrinform",
+    "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/953/070/350/937/032/original/879e8ba462549c6c.jpg",
+    "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/953/070/350/937/032/original/879e8ba462549c6c.jpg",
+    "header": "https://files.mastodon.social/cache/accounts/headers/111/953/070/350/937/032/original/65b5af62abceddf6.jpg",
+    "header_static": "https://files.mastodon.social/cache/accounts/headers/111/953/070/350/937/032/original/65b5af62abceddf6.jpg",
+    "followers_count": 90,
+    "following_count": 0,
+    "statuses_count": 3792,
+    "last_status_at": "2024-04-15",
+    "hide_collections": true,
+    "emojis": [],
+    "fields": [
+        {
+            "name": "Facebook",
+            "value": "<a href=\"https://facebook.com/Ukrinform\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">facebook.com/Ukrinform</span><span class=\"invisible\"></span></a>",
+            "verified_at": null
+        },
+        {
+            "name": "Twitter",
+            "value": "<a href=\"https://twitter.com/UKRINFORM\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/UKRINFORM</span><span class=\"invisible\"></span></a>",
+            "verified_at": null
+        },
+        {
+            "name": "Instagram",
+            "value": "<a href=\"https://instagram.com/ukrinform\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/ukrinform</span><span class=\"invisible\"></span></a>",
+            "verified_at": null
+        },
+        {
+            "name": "YouTube",
+            "value": "<a href=\"https://www.youtube.com/c/UkrinformTV\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/c/UkrinformTV</span><span class=\"invisible\"></span></a>",
+            "verified_at": null
+        }
+    ]
+}
